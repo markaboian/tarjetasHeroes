@@ -1,0 +1,90 @@
+*{
+    font-family: Roboto;
+    font-weight: 400; 
+}
+
+.titulo{
+    background-color: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 15px;
+    position: sticky;
+    top: 0%;
+    box-sizing: border-box;
+}
+
+.descuentos{
+    display: block;
+    background-color: #1CD1B0;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.footer{
+    display: block;
+    background-color: #00669F;
+    bottom: 1095px;
+    color: #FFF9F9;
+    font-size: 16px;
+    padding: 16px;
+}
+
+.tarjetas{
+    display: flex;
+    text-align: center;
+    width: 300px;
+    margin-left: 270px;
+    margin-bottom: 150px;
+    margin-top: 153px;
+
+}
+
+.perfilHeroe{
+    position: relative;
+    bottom: 59px;
+}
+
+.perfilHeroe img{
+    border-radius: 100px;
+}
+
+.heroe1{
+    margin-right: 35px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.heroe2{
+    margin-right: 35px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.heroe3{
+    background-color: #F3F3F3;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.tarjetas h3, p{
+    position: relative;
+    bottom: 60px;
+    margin: 20px;
+}
+
+.tarjetas h3{
+    font-size: 30px;
+}
+
+.verMas a{
+    text-decoration: none;
+    font-size: 15px;
+    background-color: #00669F;
+    color: white;
+    padding: 15px;
+    padding-left: 37px;
+    padding-right: 35px;
+    position: relative;
+    bottom: 35px;
+}
